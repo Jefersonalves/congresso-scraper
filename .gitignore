@@ -1,0 +1,4 @@
+data/
+crawls/
+__pycache__/
+spiders/__pycache__/
